@@ -1,0 +1,27 @@
+body {
+background: #FFFFFF;
+text-align: center;
+
+}
+#main {
+
+width: 1000px;
+height: 600px;
+background: #FFFFFF;
+margin: 25px auto;	
+border: solid 10px #000000;
+}
+h1{
+text-align: center; 
+font-family: "Arial";
+font-size: 44pt;
+color: #000000;
+}
+
+p{
+font-family:"Calibri";
+font-size: 18pt;
+text-align: center;
+color: #000000;
+
+}
